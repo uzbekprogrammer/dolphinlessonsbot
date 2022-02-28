@@ -1,0 +1,35 @@
+HTML = {
+    "HTMLda dasturlash | 0. Kurs haqida": "BAACAgIAAxkBAAMWYhxTlcoGh_m3bjZ0OwVVi01eLoMAAkkSAALGqHFKCrufvPSpebUjBA",
+    "HTMLda dasturlash | 1. WEB haqida": "BAACAgIAAxkBAAMYYhxUlbXU9e3Su7eURWPcj4E24UwAAigUAAL982hKlc5ulivMzAcjBA",
+    "HTMLda dasturlash | 2. Kirish": "BAACAgIAAxkBAAMaYhxU2QpBMMcs72rwOvMyAwT_tOEAAqYPAAKHdSBKHEX-wSGgAAFxIwQ",
+    "HTMLda dasturlash | 3. Development Environment (Dasturlash Muhiti)": "BAACAgIAAxkBAAMcYhxVE_bXcZuBoKf7FlSMw6dmAnUAAjEUAAJ-zSBKBs4lWTttwmsjBA",
+    'HTMLda dasturlash | 4. Hujjat strukturasi va "!DOCTYPE"': "BAACAgIAAxkBAAMeYhxVULQeI6heZz-JWEAQUhcGmlsAAuMWAAKTT5lKLTCQbBt0DNEjBA",
+    'HTMLda dasturlash | 5. Elementlar va "attribute"lar': "BAACAgIAAxkBAAMhYhxWa0WmONpwSBDXiZvoFE5CbaAAAkYWAALt0aFKHsZw8z50fg0jBA",
+    'HTMLda dasturlash | 6. "Headings" (Sarlavhalar)': "BAACAgIAAxkBAAMjYhxXctssKlJwoSObU0LE_hHOB1AAAjQUAAJ-zSBK8YwaAAGrOAYfIwQ",
+    'HTMLda dasturlash | 7. "Paragraphs" (Xatboshilar)': "BAACAgIAAxkBAAMlYhxXst3b6k3-be4TvxsUQRZVJZ8AAsIVAAJK0JhK5HI-aAPUPSojBA",
+    "HTMLda dasturlash | 8. Styles (Stillar)": "BAACAgIAAxkBAAMoYhxX228ZH2aJ8MB70QekXZeSjhkAAswXAAIly5lKh5gbTzicgHsjBA",
+    "HTMLda dasturlash | 9. Formatting (Formatlash)": "BAACAgIAAxkBAAMqYhxYE_wB2YwI36QcGbwBaY3Ccd4AAgUQAAIvVaFK1LM6jMfd_vsjBA",
+    "HTMLda dasturlash | 10. Comments (Izohlar)": "BAACAgIAAxkBAAMsYhxYOAbk2OnAa0jtGxc4kgOUHbMAArQWAALt0aFKBefcGj8zBf8jBA",
+    "HTMLda dasturlash | 11. CSS 1-qism": "BAACAgIAAxkBAAMuYhxYvtzPW4z-a0QgFSbhpdi2Bj4AAjMZAAIQt5hKmmtZJLEuh7wjBA",
+    "HTMLda dasturlash | 12. CSS 2-qism": "BAACAgIAAxkBAAMwYhxZEl4JKdIgloSch_C0U-xe_JMAAqMUAAIQt6BKkZG5Wyr711cjBA",
+    "HTMLda dasturlash | 13. Links (Havolalar)": "BAACAgIAAxkBAAMyYhxZR6H2o32VNsCq7UMQJgrkeMIAAtwTAAIBe6FK0dICccxh2AkjBA",
+    "HTMLda dasturlash | 14. Images (Rasmlar)": "BAACAgIAAxkBAAM1YhxZbNc0HtMUa51VKSpGJ7cLChIAAugRAAIly6FKfi29POhZerIjBA",
+    'HTMLda dasturlash | 15. "Tables" (Jadvallar)': "BAACAgIAAxkBAAM3YhxZrFE6x2BzCa6wnC9KrG5rKzcAAk4SAAJbCaFKksfd6BGbMjwjBA",
+    "HTMLda dasturlash | 16. Lists (Ro'yhatlar)":"BAACAgIAAxkBAAM5YhxZ7RVvcHwurlYcCCX-ds90ENwAAkYdAALWr8BLzjCN--yOEpIjBA",
+    'HTMLda dasturlash | 17. "ID"':"BAACAgIAAxkBAAM7YhxaFraugp0PUWqT-I3nJi57RHkAAhoWAALRoMFLOzxNzbuAHU8jBA",
+    'HTMLda dasturlash | 18. "Class"':"BAACAgIAAxkBAAM9YhxaRnAd6DChDbllvVI_coqQSWEAAk8TAALEjAhLbU3W8HqTickjBA",
+    'HTMLda dasturlash | 19. "Block" va "Inline" elementlar': "BAACAgIAAxkBAAM_YhxaYH62nrrFdVGoI5X-684CfZAAAlATAALEjAhLasWA4XAONwQjBA",
+    'HTMLda dasturlash | 20. "div" va "span"': "BAACAgIAAxkBAANBYhxahWZF8OMwcjIWD-IAAftmAAHcAwAC5hYAAl4lCEsiwhvo6R7XHiME",
+    'HTMLda dasturlash | 21. "Forms" 1-qism': "BAACAgIAAxkBAANDYhxa3cvByuaxkN0N7d629U66-KcAAmYVAAL3HAhLOyW1114yeIQjBA",
+    'HTMLda dasturlash | 22. "Forms" 2-qism': "BAACAgIAAxkBAANFYhxa90uJtyCLLuBtDJeczBP07SAAAgMWAAJOiBBLfGR088pTLZEjBA",
+    'HTMLda dasturlash | 23. "Forms" 3-qism': "BAACAgIAAxkBAANHYhxbF3CuFPLB1c0zhyb6deOiJEQAAkkWAAIk6RBLXfdkEG_cv8AjBA",
+    'HTMLda dasturlash | 24. "Layout" va "Semantics"': "BAACAgIAAxkBAANJYhxbNA9w_haT4N9sk9CZyIjwRaoAAkoWAAIk6RBL2r_tFzHRO0gjBA",
+    'HTMLda dasturlash | 25. "Head"': "BAACAgIAAxkBAANLYhxbZuirIOy_TmTxSIKHSul2bSYAAmYTAAKiwQlLRt6WB29oo0MjBA",
+    'HTMLda dasturlash | 26. Audio, Video va Youtube': "BAACAgIAAxkBAANNYhxbh-fOuZ7vucHbNZ9H8pVtxW0AAgUUAAJKzRhLxI8BShtLMFwjBA",
+    'HTMLda dasturlash | 27. "Best practices"': "BAACAgIAAxkBAANPYhxbpdZErImQX79rzqRp-cARlJwAAicVAALtVxFLZlfLxfC4cf0jBA",
+    'HTMLda dasturlash | 28. Loyiha ("Project")': "BAACAgIAAxkBAANRYhxbwWcf-ICazYbmIkAfHKgLOeUAAp8bAAJ_cyBKKOH0QI_Y6Z4jBA",
+}
+
+if __name__ == '__main':
+    for i, n in HTML.items():
+        print(i)
