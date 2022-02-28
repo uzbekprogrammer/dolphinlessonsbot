@@ -1,4 +1,4 @@
-import sqlite3
+import pysqlite3
 
 from aiogram import types
 from aiogram.dispatcher.filters.builtin import CommandStart
@@ -23,7 +23,7 @@ async def bot_start(message: types.Message):
         await message.answer(f"Assalomu aleykum, {message.from_user.full_name}!\n"
                              f"IT sohasiga doir foydali va samarali bo'lgan bepul darslarni ulashuvchi botga xush kelibsiz.", reply_markup=lesson)
 
-    except sqlite3.IntegrityError as err:
+    except pysqlite3.IntegrityError as err:
         await message.answer(f"Sizni yana ko'rganimizdan xursandmiz 😊 .")
         # await bot.send_message(chat_id=ADMINS[0], text=err)
         pass
