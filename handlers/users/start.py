@@ -24,6 +24,6 @@ async def bot_start(message: types.Message):
                              f"IT sohasiga doir foydali va samarali bo'lgan bepul darslarni ulashuvchi botga xush kelibsiz.", reply_markup=lesson)
 
     except pysqlite3.IntegrityError as err:
-        await message.answer(f"Sizni yana ko'rganimizdan xursandmiz 😊 .")
+        await message.answer(f"Sizni yana ko'rganimizdan xursandmiz 😊 .",reply_markup=lesson)
         # await bot.send_message(chat_id=ADMINS[0], text=err)
         pass
