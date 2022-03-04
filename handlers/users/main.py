@@ -9,6 +9,7 @@ from handlers.Lessons.html import HTML
 from handlers.Lessons.javascript import JAVASCRIPT
 from handlers.Lessons.python import PYTHON
 from handlers.Lessons.sass import SASS
+from handlers.Lessons.tgbot import TGBOT
 from keyboards.default import lesson
 from loader import dp
 
@@ -84,11 +85,11 @@ Foydali va samarali video darslar:
 @dp.message_handler(text='Python')
 async def sass(message: types.Message):
     for cap, video in PYTHON.items():
-        await message.answer_video(video, caption=f'📹{cap}\n\n© Anvar Narzullayev\n\nFoydali va samarali video darslar:\n@DolphinLessonsBot 🐬',
+        await message.answer_video(video, caption=f'{cap}\n\n© Anvar Narzullayev\n\nFoydali va samarali video darslar:\n@DolphinLessonsBot 🐬',
                                    reply_markup=ReplyKeyboardRemove())
 
         await asyncio.sleep(0.1)
-    await message.answer("""Anvar Narzullayev - Python Django darslari 25 qismdan iborat
+    await message.answer("""Anvar Narzullayev - Python Darslari 40 qismdan iborat
 
 Foydali va samarali video darslar:
 @DolphinLessonsBot 🐬""", reply_markup=lesson)
@@ -96,7 +97,7 @@ Foydali va samarali video darslar:
 
 @dp.message_handler(text='Python | TelegramBot')
 async def sass(message: types.Message):
-    for cap, video in PYTHON.items():
+    for cap, video in TGBOT.items():
         await message.answer_video(video, caption=f'📹{cap}\n\n© Anvar Narzullayev\n\nFoydali va samarali video darslar:\n@DolphinLessonsBot 🐬',
                                    reply_markup=ReplyKeyboardRemove())
 
